@@ -1,7 +1,3 @@
-/* =========================
-   GLOBAL STYLES
-========================= */
-
 * {
   margin: 0;
   padding: 0;
@@ -30,9 +26,7 @@ footer {
   margin: auto;
 }
 
-/* =========================
-   NAVBAR
-========================= */
+/* NAVBAR */
 
 .navbar {
   min-height: 70px;
@@ -81,9 +75,7 @@ footer {
   cursor: pointer;
 }
 
-/* =========================
-   HERO SECTION
-========================= */
+/* HERO SECTION */
 
 .hero {
   background-color: white;
@@ -138,9 +130,7 @@ footer {
   object-fit: cover;
 }
 
-/* =========================
-   ABOUT SECTION
-========================= */
+/* ABOUT SECTION */
 
 .about {
   background-color: white;
@@ -175,9 +165,7 @@ footer {
   line-height: 1.7;
 }
 
-/* =========================
-   SKILLS SECTION
-========================= */
+/* SKILLS SECTION */
 
 .skills {
   background-color: white;
@@ -215,9 +203,7 @@ footer {
   border-radius: 10px;
 }
 
-/* =========================
-   CONTACT SECTION
-========================= */
+/* CONTACT SECTION */
 
 .contact {
   background-color: white;
@@ -249,9 +235,7 @@ footer {
   margin-bottom: 15px;
 }
 
-/* =========================
-   FOOTER
-========================= */
+/* FOOTER SECTION */
 
 footer {
   background-color: #222;
@@ -269,9 +253,7 @@ footer {
   text-align: center;
 }
 
-/* =========================
-   TABLET RESPONSIVE
-========================= */
+/* TABLET SIZING*/
 
 @media (max-width: 992px) {
   .hero,
@@ -301,9 +283,7 @@ footer {
   }
 }
 
-/* =========================
-   MOBILE RESPONSIVE
-========================= */
+/* MOBILE SIZING */
 
 @media (max-width: 768px) {
   /* NAVBAR */
